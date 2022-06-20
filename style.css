@@ -4,6 +4,10 @@
     margin: 0;
     padding: 0;
 }
+:root {
+    --color-txt-general: #141516;
+    --color-bg-general: #ffffff;
+}
 
 /* Header general */
 
@@ -42,12 +46,12 @@ nav a:visited {
 
 
 .numeralia {
-    color: white;
+    color: var(--color-txt-general);
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     width: 100%;
-    background-color: #252525;
+    background-color: var(--color-bg-general);
 }
 
 .graficas {
