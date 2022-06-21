@@ -3,7 +3,7 @@
 
 Secciones:
 
-[COMPORTAMIENTO](https://ricardometrics.github.io/RevelioXW/comportamiento.htm "COMPORTAMIENTO")l
+[COMPORTAMIENTO](https://ricardometrics.github.io/RevelioXW/comportamiento.htm "COMPORTAMIENTO")
 
 [INTERESES](https://ricardometrics.github.io/RevelioXW/intereses.html "INTERESES")
 
