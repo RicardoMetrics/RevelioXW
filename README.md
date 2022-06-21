@@ -1,11 +1,10 @@
 # RevelioXW
-Xpectus Revelio
+### Xpectus Revelio 
 
-Comportamiento:
-https://ricardometrics.github.io/RevelioXW/comportamiento.html
+Secciones:
 
-Intereses:
-https://ricardometrics.github.io/RevelioXW/intereses.html
+[COMPORTAMIENTO](https://ricardometrics.github.io/RevelioXW/comportamiento.htm "COMPORTAMIENTO")l
 
-Relaciones:
-https://ricardometrics.github.io/RevelioXW/relaciones.html
+[INTERESES](https://ricardometrics.github.io/RevelioXW/intereses.html "INTERESES")
+
+[RELACIONES](https://ricardometrics.github.io/RevelioXW/relaciones.html "RELACIONES")
