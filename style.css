@@ -108,14 +108,13 @@ nav a:visited {
     flex-direction: row;
     flex-wrap: nowrap;
     width: 100%;
-    background-color: black;
-   background-color: #252525;
+    background-color: var(--color-bg-general);
 }
 
 .box__numeralia__intereses {
     border-right: 1px solid #141516;
     border-bottom: 1px solid #141516;
-    background-color: #252525;
+    background-color: var(--color-bg-general);
     color:white;
     height: 7.5rem;
     width: 33.33%;
@@ -129,27 +128,27 @@ nav a:visited {
     flex-wrap: nowrap;
     width: 100%;
     height: 35rem;
-    background-color: #252525;
+    background-color: var(--color-bg-general);
 }
 
 .actitud {
     width: 30%;
-    background-color: #252525;
-    color: white;
+    background-color: var(--color-bg-general);
+    color: var(--color-titulos);
     padding: 3rem;
 }
 
 .wordcloud {
     width: 30%;
-    background-color:#252525;
-    color: white;
+    background-color: var(--color-bg-general);
+    color: var(--color-titulos);
     padding: 3rem;
 }
 
 .tabla {
     width: 40%;
-    background-color:#252525;
-    color: white;
+    background-color: var(--color-bg-general);
+    color: var(--color-titulos);
     padding: 3rem;
 }
 
